@@ -11,14 +11,14 @@ nav {
 }
 
 nav a {
-  color: #7591ff;
-  background-color: white;
+  color: #1d0702;
+  background-color: black;
   padding: 0px 20px;
 }
 
 /* This is the background color of the document (body) */
 body { 
-  background-color: #ffffff; 
+  background-color: #c62a2a; 
 } 
 
 
@@ -84,7 +84,7 @@ article p {
 }
 
 a {
-  color: red;
+  color: #00ff2a;
 }
 
 /* This is where you can adjust the background color and other attributes of the footer section */

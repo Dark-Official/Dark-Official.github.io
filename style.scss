@@ -1,0 +1,118 @@
+
+*, html, body {
+  font-family: Brush Script MT, Brush Script Std, cursive;
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box; 
+}
+
+nav {
+  padding: 20px 0px 0px 50px;
+}
+
+nav a {
+  color: #7591ff;
+  background-color: white;
+  padding: 0px 20px;
+}
+
+/* This is the background color of the document (body) */
+body { 
+  background-color: #ffffff; 
+} 
+
+
+main {
+  padding: 50px;
+}
+
+/* This is the main headline tag for the page*/
+header h1 {
+  color:#ffffff;
+  text-align: center;
+  font-size: 50px;
+}
+
+/*This is where you can adjust the background color and other attributes of the header section */
+header {
+  padding: 15px 20px 20px 20px;
+  background-color:black;
+  text-shadow: 2px 2px 5px gray;
+} 
+
+h2 {
+  color: black;
+  margin-bottom:10px;
+}
+
+img {
+  border: solid 4px white;
+}
+
+h4{
+  color: black;
+  margin-bottom:20px;
+}
+
+
+/* This is for the lists */
+ul {
+  list-style-type: square;
+  margin: 0px 0px 10px 20px;
+  padding-left:10px;
+}
+
+ ol {
+  margin: 0px 0px 10px 20px;
+  padding-left:10px;
+}
+
+
+/* This is where you can adjust the color and font size of the list items */
+li {
+  color: black; 
+}
+
+/* This is where you can adjust the size and color of the title of your list */
+p {
+  color:black;
+}
+
+article p {
+  font-size: 14px;
+  color: black;
+}
+
+a {
+  color: red;
+}
+
+/* This is where you can adjust the background color and other attributes of the footer section */
+footer {
+  background-color:black;
+  display: block;
+  position: fixed;
+	left: 0;
+	bottom: 0;
+  width: 100%;
+  padding: 10px 20px;
+}
+
+/* This is where you can adjust the attributes of the paragraph text of the footer section (including color) */
+footer p {
+  color: #ffffff;
+  text-align: center;
+  font-size: 18px;
+}
+
+
+
+
+
+
+/*Do not touch this section */
+.flex-container{
+  display: flex;
+  flex-wrap:wrap;
+  width: 100%;
+}

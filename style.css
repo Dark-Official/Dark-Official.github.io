@@ -11,14 +11,14 @@ nav {
 }
 
 nav a {
-  color: #1d0702;
-  background-color: black;
+  color: #370b0b;
+  background-color: #00878a;
   padding: 0px 20px;
 }
 
 /* This is the background color of the document (body) */
 body { 
-  background-color: #c62a2a; 
+  background-color: #00878a; 
 } 
 
 

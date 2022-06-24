@@ -135,3 +135,9 @@ footer p {
   flex-wrap:wrap;
   width: 100%;
 }
+
+<style>
+.content {
+  max-width: 500px;
+  margin: auto;
+}

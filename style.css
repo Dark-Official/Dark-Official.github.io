@@ -95,17 +95,17 @@ ul {
 
 /* This is where you can adjust the color and font size of the list items */
 li {
-  color: black; 
+  color: white; 
 }
 
 /* This is where you can adjust the size and color of the title of your list */
 p {
-  color:black;
+  color:white;
 }
 
 article p {
   font-size: 14px;
-  color: black;
+  color: white;
 }
 
 a {

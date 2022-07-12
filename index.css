@@ -1,9 +1,16 @@
+/* Images */
 img {
     width: 200px;
 }
 
+/* Body */
 body {
     text-align: center;
     font-family: "Oswald";
-    background-color: #490303;
+    background-color: #1981f0;
+}
+
+/* Header Text */
+h1 {
+  color: white;
 }

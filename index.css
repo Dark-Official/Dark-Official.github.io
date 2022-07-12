@@ -28,7 +28,7 @@ p {
 
 /*IDK*/
 
-mySidenav a {
+#mySidenav a {
   position: absolute;
   left: -80px; 
   transition: 0.3s;
@@ -40,11 +40,11 @@ mySidenav a {
   border-radius: 0 5px 5px 0; 
 }
 
-mySidenav a:hover {
+#mySidenav a:hover {
   left: 0;
 }
 
-home {
+#home {
   top: 20px;
   background-color: #04AA6D;
 }

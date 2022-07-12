@@ -6,11 +6,17 @@ img {
 /* Body */
 body {
     text-align: center;
-    font-family: "Oswald";
+    font-family: "Brush Script MT";    
     background-color: #1981f0;
 }
 
 /* Header Text */
 h1 {
+  font-family: "Brush Script MT";        
   color: white;
+}
+
+p {
+  font-family: "Brush Script MT";        
+  color: #330000;
 }

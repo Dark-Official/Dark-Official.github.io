@@ -1,12 +1,4 @@
-/*Keyframes*/
-@keyframes color {
-  0%   { background: #3d0000; }
-  20%  { background: #170303; }
-  40%  { background: #6b0000; }
-  60%  { background: #5f2525; }
-  80%  { background: #6b0000; }
-  100% { background: #750000; }
-}
+
 
 /* Images */
 img {
@@ -16,23 +8,24 @@ img {
 /* Body */
 body {
     text-align: center;
-    font-family: Optima;    
     background: #33CCCC; /* Fallback */
-    animation: color 9s infinite linear;
     padding: 2em;
 }
 
 /* Text */
 h1 {
   color: black;
+     font-family: Optima;          
 }
 
 h2 {   
   color: black;
+  font-family: Optima;          
 }        
 
 p {     
   color: #330000;
+font-family: Optima;    
 }
 
 /*IDK*/

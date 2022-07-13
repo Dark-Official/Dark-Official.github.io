@@ -9,9 +9,9 @@ img {
 body {
     text-align: center;
     padding: 2em;
-    background:url("assets/bg.gif") repeat-y 100% 100% fixed;
-    height:100%;
-    width:100%;
+    background-image:url('https://cdn.discordapp.com/attachments/968435246833991681/996855740146925730/bg.gif');
+background-position: center;
+background-size: cover;
 }
 
 /* Text */

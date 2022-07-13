@@ -8,8 +8,10 @@ img {
 /* Body */
 body {
     text-align: center;
-    background: #33CCCC; /* Fallback */
     padding: 2em;
+    background:url('assets/bg.gif') repeat-y 100% 100% fixed;
+    height:100%;
+    width:100%;
 }
 
 /* Text */

@@ -22,14 +22,10 @@ h2 {
 
 p {     
   color: #940a0a;
-        font-size: 10px;
-font-family: 'Caveat', cursive;   
+  font-size: 15px;
+ font-family: 'Caveat', cursive;   
 }
 
 .myDiv {
   text-align: center;
-}
-
-#stroke {
-	-webkit-text-stroke: 3px #00fffb;
 }

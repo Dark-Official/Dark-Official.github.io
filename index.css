@@ -13,15 +13,17 @@ body {
 }
 
 h1 {
-  color: #ffffff;     
+  color: #fbff00;   
+  font-family: 'Rock Salt', cursive;        
 }
 
 h2 {   
-  color: #ffffff;
+  color: #1eff00;
+  font-family: 'Rock Salt', cursive;        
 }        
 
 p {     
-  color: #00ff11;
+  color: #ff7300;
   font-size: 15px;
  font-family: 'Rock Salt', cursive;  
 }

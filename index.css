@@ -28,3 +28,7 @@ font-family: 'Caveat', cursive;
 .myDiv {
   text-align: center;
 }
+
+#stroke {
+	-webkit-text-stroke: 2px #00fffb;
+}

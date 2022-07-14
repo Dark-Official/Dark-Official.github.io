@@ -1,17 +1,17 @@
-
-/* I1mages */
 img {
     width: 200px;
 }
 
-/*a Body */
 body {
  background-image:url("https://cdn.discordapp.com/attachments/968435246833991681/996855740146925730/bg.gif");  
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;      
   text-align: center;
   padding: 2em;
 }
 
-/* Text */
 h1 {
   color: #ffffff;
      font-family: Optima;          

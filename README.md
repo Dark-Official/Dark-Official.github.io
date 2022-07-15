@@ -5,3 +5,4 @@ This is the offical website of the Discord Server [Dark](https://discord.gg/9phB
 If you want to contribute to this website please just submit a pull request.
 
 # feel free to contribute to the website.
+Ask Shroom#9570 if you want something to change

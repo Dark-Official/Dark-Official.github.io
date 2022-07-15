@@ -1,3 +1,5 @@
+# Copy this if you are gonna make a new page
+
 <!DOCTYPE html>
 <html>
 <style>

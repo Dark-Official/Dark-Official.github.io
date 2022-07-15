@@ -1,5 +1,7 @@
 # Copy this if you are gonna make a new page
 
+# go to /other/test.html 
+
 <!DOCTYPE html>
 <html>
 <style>
@@ -19,7 +21,7 @@
   <h2></h2>
                      
                     <footer>
-  <p>Copyright &copy; Shroom#9570</p>
+  <p id="c">Copyright &copy; Shroom#9570</p>
 </footer> 
  </body>
 </html> 
